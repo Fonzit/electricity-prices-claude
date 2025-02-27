@@ -2,7 +2,7 @@
 
 A web application that displays real-time electricity prices in Finland using data from the [Pörssisähkö API](https://api.porssisahko.net/v1/latest-prices.json). The app helps users track current and upcoming electricity prices, find the cheapest hours, and make informed decisions about their electricity usage.
 
-![Finland Electricity Price Tracker Screenshot](https://example.com/screenshot.png)
+![Finland Electricity Price Tracker Screenshot](./image.png)
 
 ## Features
 
